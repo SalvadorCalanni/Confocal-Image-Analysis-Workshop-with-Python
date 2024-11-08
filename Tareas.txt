@@ -1,0 +1,4 @@
+-Hacer algunas diapos mostrando las funciones de numpy y mascaras booleanas
+por ej:
+np.sum(array con numeros)
+np.sum(array booleano)
